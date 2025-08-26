@@ -1,71 +1,106 @@
 # Hi, I'm Esteban Aleart! 👋
 
-Welcome to my GitHub profile! Here you'll find an overview of my skills, experiences, and interests.
+Welcome to my GitHub! I’m a Full Stack Web Developer & Systems Engineering student with a background in healthcare. I love turning ideas into practical, impactful solutions.
 
-## About Me
+---
 
-I am a Full Stack Web Developer graduated from the SoyHenry bootcamp and currently pursuing a degree in Systems Engineering. I am passionate about turning what I learn into practical and impactful solutions.
+## 🚀 About Me
 
-My technical skills include HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, SQL, MongoDB, and tools like Axios, WebRTC, and Socket.io. I am experienced in building dynamic web applications, creating interactive dashboards, generating structured PDFs, and optimizing responsive user interfaces.
+* Full Stack Web Developer graduated from **SoyHenry Bootcamp**
+* Systems Engineering student at **Universidad Siglo 21**
+* Former nurse & ambulance driver with experience in teaching and mentoring
+* Passionate about building meaningful projects and continuous learning
 
-Before entering the tech world, I worked extensively in healthcare as a nurse and ambulance driver, which gave me a unique perspective, strong problem-solving skills, and the ability to work effectively under pressure. I also have experience in teaching and mentoring, sharing knowledge, and guiding others in their learning journey.
+---
 
-## Highlighted Projects
+## 💻 Skills
 
-* **Teleconsultation Platform (WebRTC & Socket.io)**
-  Developed a real-time teleconsultation platform using RTCPeerConnection, improving video and audio streaming in low-latency environments.
+### Frontend
 
-* **Next.js & React Medical Dashboards**
-  Built interactive dashboards with Google Charts and react-chartjs-2 for visualizing medical data in a user-friendly way across devices.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
 
-* **Dynamic PDF Generation (jsPDF)**
-  Implemented automatic report generation including charts, images, and structured data, preserving the document structure for conversion without loss of quality.
+### Backend
 
-* **FitConnection (Henry Capstone Project)**
-  E-commerce platform for fitness products, using React on the frontend and Express + Sequelize on the backend, built collaboratively with a multidisciplinary team.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square\&logo=sequelize\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square\&logo=postgresql\&logoColor=white)
 
-## Work Experience
+### Tools & Libraries
 
-* **SIES Rosario, Spain** – Ambulance Driver & Nurse | 2023 – 2025
-  Managed mobile intensive care units, coordinated emergency responses, and handled high-stress situations efficiently.
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-FF2C00?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socket.io\&logoColor=white)
+![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=flat-square)
 
-* **Segimed (Medical Platform Project)** – Full Stack Developer & Frontend Lead | 2024
-  Developed clinical data management platform with React, Next.js, Node.js, and REST APIs.
+---
 
-* **Henry** – Teaching Assistant | 2023 – Present
-  Mentored students, led technical sessions, and supported learning in full stack web development.
+## 📂 Highlighted Projects
 
-* **PairPrograming** – CEO & Tech Lead | 2025
-  Founded a collaborative tech solutions company, focusing on web development best practices and team growth.
+### **Teleconsultation Platform**
 
-## Education
+* Real-time video consultations with **WebRTC & Socket.io**
+* Optimized for low-latency streaming and real-time communication
 
-* Full Stack Web Development Bootcamp – SoyHenry (2024)
-* Systems Engineering – Universidad Siglo 21 (2023–present)
-* Professional Nursing – Universidad Nacional de Rosario
-* Medicine – UNR (up to 5th year)
-* University Teaching Training – UNR
+### **Medical Dashboards (Next.js & React)**
 
-## Skills
+* Interactive data visualization using **Google Charts** & **react-chartjs-2**
+* Responsive design for multiple devices
 
-* **Frontend:** HTML, CSS, JavaScript, React, Redux, SASS/SCSS
-* **Backend:** Node.js, Express, Sequelize, SQL, MongoDB
-* **Tools & Libraries:** Axios, WebRTC, Socket.io, jsPDF, OpenStreetMap + Leaflet
-* **Other:** Photoshop, Office, Canvas, Data Management
-* **Languages:** Spanish (native), English (C2)
+### **Dynamic PDF Reports (jsPDF)**
 
-## Interests
+* Automatic PDF generation for medical reports including charts, images, and structured data
 
-* Continuous learning and professional growth
-* Full Stack development
-* Building impactful and challenging projects
+### **FitConnection (Henry Capstone Project)**
 
-## Contact
+* E-commerce platform for fitness products
+* Frontend: React | Backend: Express & Sequelize | Team collaboration
 
-You can reach me via email: [esteban.aleart@gmail.com](mailto:esteban.aleart@gmail.com)
-LinkedIn: [linkedin.com/in/estebanaleart](https://www.linkedin.com/in/estebanaleart/)
+### **Segimed (Medical Platform Project)**
 
-## Fun Fact
+* Full Stack development & Frontend lead
+* Built with React, Next.js, Node.js, and REST APIs
 
-I love exploring new places and immersing myself in different cultures. Adventure is always around the corner! 🌍
+---
+
+## 🏥 Work Experience
+
+* **SIES Rosario – Ambulance Driver & Nurse | 2023–2025**
+  Managed intensive care units and emergency responses
+
+* **Henry – Teaching Assistant | 2023–Present**
+  Mentoring students, leading technical sessions, and supporting learning
+
+* **PairPrograming – CEO & Tech Lead | 2025**
+  Founded a collaborative tech solutions company, focused on web development best practices
+
+---
+
+## 🎓 Education
+
+* Full Stack Web Development – **SoyHenry Bootcamp (2024)**
+* Systems Engineering – **Universidad Siglo 21 (2023–present)**
+* Professional Nursing – **Universidad Nacional de Rosario**
+* Medicine – **UNR (up to 5th year)**
+* University Teaching Training – **UNR**
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [esteban.aleart@gmail.com](mailto:esteban.aleart@gmail.com)
+* 🔗 LinkedIn: [linkedin.com/in/estebanaleart](https://www.linkedin.com/in/estebanaleart/)
+
+---
+
+## 🌍 Fun Fact
+
+I love exploring new places and learning about different cultures. Adventure is always around the corner! 🌟
+
 
