@@ -84,8 +84,8 @@ Welcome to my GitHub! I’m a Full Stack Web Developer & Systems Engineering stu
 
 ## 🎓 Education
 
-* Full Stack Web Development – **SoyHenry Bootcamp (2024)**
-* Systems Engineering – **Universidad Siglo 21 (2023–present)**
+* Full Stack Web Development – **SoyHenry Bootcamp (2023)**
+* Systems Engineering – **Universidad Siglo 21 (2021–present)**
 * Professional Nursing – **Universidad Nacional de Rosario**
 * Medicine – **UNR (up to 5th year)**
 * University Teaching Training – **UNR**
