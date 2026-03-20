@@ -1,105 +1,93 @@
-# Esteban Aleart 👋  
+<h1 align="center">Esteban Aleart</h1>
 
-Full Stack Developer · SaaS & B2B Systems Architect · Founder @ Pair Programming  
+<p align="center">
+  Full Stack Developer · SaaS & B2B Systems Architect  
+  <br/>
+  Founder @ Pair Programming
+</p>
 
-I design and build scalable digital platforms focused on performance, maintainability, and real business impact.  
-My work combines software engineering, system architecture, and product thinking to deliver structured, long-term solutions.
-
----
-
-## 🧠 Approach  
-
-I don’t just write code — I design systems.  
-
-I focus on:  
-- Clean and scalable architecture  
-- Performance-first development  
-- Maintainable and modular codebases  
-- Real-world usability and product alignment  
-
-Through my consultancy, I also integrate **data, automation, SEO, and growth strategies**, helping companies not only build technology but scale it effectively.
+<p align="center">
+  <a href="https://www.pairprogramming.com.ar/">pairprogramming.com.ar</a> ·
+  <a href="https://wearenkm.com/">wearenkm.com</a> ·
+  <a href="https://www.linkedin.com/in/estebanaleart/">linkedin</a>
+</p>
 
 ---
 
-## 🚀 What I Build  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=Scalable+SaaS+Platforms;Clean+System+Architecture;Real-Time+%26+Data+Systems" />
+</p>
 
-- SaaS platforms & internal business systems  
-- Custom CRM & lead management systems  
-- Data dashboards & analytics platforms  
-- API integrations & automation workflows  
+---
+
+## About
+
+I design and build scalable digital systems focused on performance, maintainability, and long-term business impact.
+
+My work combines software engineering, system architecture, and product thinking to create structured platforms that grow with real-world usage.
+
+---
+
+## Work
+
+- SaaS platforms and internal systems  
+- Custom CRM and lead management tools  
+- Data dashboards and analytics systems  
+- API integrations and automation workflows  
 - Real-time applications (WebSockets / WebRTC)  
 
 ---
 
-## 🏢 Ecosystem  
-
- - 🌐 https://wearenkm.com/  
- - 🌐 https://www.pairprogramming.com.ar/ 
----
-
-## 💻 Tech Stack  
+## Stack
 
 **Frontend**  
-Next.js · React · Tailwind · JavaScript  
+Next.js · React · Tailwind  
 
 **Backend**  
-Node.js · Express · PostgreSQL · MongoDB  
+Node.js · PostgreSQL · MongoDB  
 
-**Real-Time & Data**  
-Socket.io · WebRTC · Chart.js  
-
-**Infrastructure & Tools**  
-Vercel · REST APIs · Cloud services  
+**Systems**  
+APIs · Real-time · Data visualization  
 
 ---
 
-## 📂 Selected Work  
+## Selected Projects
 
-### Teleconsultation Platform  
-Real-time video system built with WebRTC and Socket.io, optimized for low-latency communication and scalability.  
+**Teleconsultation Platform**  
+Real-time video system built with WebRTC and Socket.io, optimized for low-latency communication  
 
-### Data & Medical Dashboards  
-Interactive dashboards focused on clarity, performance, and decision-making.  
+**Data Dashboards**  
+High-performance interfaces designed for clarity and decision-making  
 
-### Dynamic PDF Systems  
-Automated report generation with structured data, charts, and scalable document logic.  
+**Dynamic Document Systems**  
+Automated PDF generation with structured data and scalable logic  
 
-### SaaS & CRM Platforms  
-Custom-built systems for lead management, automation, and internal operations.  
+**SaaS & CRM Platforms**  
+Custom-built systems for business operations, automation, and growth  
 
 ---
 
-## 💼 Experience  
+## Experience
 
 **Pair Programming — Founder & Tech Lead**  
-Leading end-to-end development, defining architecture, and delivering scalable solutions for SaaS and B2B clients.  
+End-to-end development, architecture design, and scalable systems for SaaS and B2B  
 
 **Teaching Assistant — Software Development**  
-Mentoring developers, leading technical sessions, and supporting structured learning.  
-
-**Healthcare Background**  
-Experience in high-pressure environments, bringing strong decision-making and problem-solving into engineering.  
+Mentoring developers and leading technical sessions  
 
 ---
 
-## 🎓 Education  
-
-Systems Engineering (ongoing)  
-Full Stack Development — SoyHenry  
-Nursing & Medical Studies  
-
----
-
-## 📫 Contact  
-
-📧 esteban.aleart@gmail.com  
-🔗 https://www.linkedin.com/in/estebanaleart  
+## Contact
+nakama@nakama.ar
+esteban.aleart@nakama.ar
+esteban.aleart@pairprogramming.com.ar
+esteban.aleart@gmail.com  
+linkedin.com/in/estebanaleart  
 
 ---
 
-## ⚡ Philosophy  
+## Philosophy
 
 Build systems, not features.  
-Optimize for clarity, scalability, and long-term value.
-
-
+Clarity over complexity.  
+Structure over improvisation.
