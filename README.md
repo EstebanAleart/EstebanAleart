@@ -79,9 +79,13 @@ Mentoring developers and leading technical sessions
 
 ## Contact
 nakama@nakama.ar
+ <br/>
 esteban.aleart@nakama.ar
+ <br/>
 esteban.aleart@pairprogramming.com.ar
+ <br/>
 esteban.aleart@gmail.com  
+ <br/>
 linkedin.com/in/estebanaleart  
 
 ---
