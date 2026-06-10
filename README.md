@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.pairprogramming.eu/">pairprogramming.eu</a> ·
   <a href="https://www.pairprogramming.com.ar/">pairprogramming.com.ar</a> ·
   <a href="https://wearenkm.com/">wearenkm.com</a> ·
   <a href="https://www.linkedin.com/in/estebanaleart/">linkedin</a> ·
