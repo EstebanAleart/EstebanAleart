@@ -13,7 +13,7 @@ IA aplicada, sistemas agénticos y plataformas web escalables — con visión de
 [![Email](https://img.shields.io/badge/Email-esteban.aleart@pairprogramming.com.ar-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:esteban.aleart@pairprogramming.com.ar)
 [![Anthropic for Startups](https://img.shields.io/badge/Anthropic_for_Startups-Miembro-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 
-**🇪🇸 Español**&nbsp;&nbsp;·&nbsp;&nbsp;[🇬🇧 English](https://github.com/EstebanAleart/EstebanAleart/blob/HEAD/Readme.en.md)
+**🇪🇸 Español**&nbsp;&nbsp;·&nbsp;&nbsp;[🇬🇧 English](https://github.com/EstebanAleart/EstebanAleart/blob/HEAD/README.en.md)
 
 </div>
 
