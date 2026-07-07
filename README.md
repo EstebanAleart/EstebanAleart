@@ -49,7 +49,6 @@ Me obsesiona construir cosas que se sostienen solas: pipelines de IA que generan
 | Proyecto | Qué es |
 |---|---|
 | **[PairProgramming](https://pairprogramming.com.ar)** | Estudio de software B2B. Incluye un **servidor MCP propio** (`/api/mcp`) que expone leads y scoping de proyectos directo desde clientes de IA. |
-| **[seo-programatico.com](https://seo-programatico.com)** | Metodología de SEO programático documentada y aplicada sobre sí misma — el sitio rankea usando el método que vende. |
 | **[miseguro.com.ar](https://miseguro.com.ar)** | Comparador de seguros con 17k+ páginas y un **pipeline multiagente en producción** (RAG multi-LLM, workers async, edge proxy). |
 | **[vuelobarato.ar](https://vuelobarato.ar)** | Buscador de vuelos con streaming **SSE en tiempo real** y múltiples proveedores. |
 | **Chatte** 🐱 | Cozy cat RPG en **Three.js**, optimizado para mobile de gama baja. Mi proof-of-craft de experiencias 3D web. |
