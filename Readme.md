@@ -13,6 +13,8 @@ IA aplicada, sistemas agénticos y plataformas web escalables — con visión de
 [![Email](https://img.shields.io/badge/Email-esteban.aleart@pairprogramming.com.ar-DC2626?style=flat-square&logo=gmail&logoColor=white)](mailto:esteban.aleart@pairprogramming.com.ar)
 [![Anthropic for Startups](https://img.shields.io/badge/Anthropic_for_Startups-Miembro-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 
+**🇪🇸 Español**&nbsp;&nbsp;·&nbsp;&nbsp;[🇬🇧 English](https://github.com/EstebanAleart/EstebanAleart/blob/HEAD/README.en.md)
+
 </div>
 
 ---
@@ -24,8 +26,6 @@ Dirijo la dirección técnica de **PairProgramming**, consultora de sistemas dig
 Mi foco hoy está en **sistemas agénticos con LLMs, SEO programático y optimización GEO** — construir productos que existan *dentro de la conversación con la IA*, no solo en el buscador.
 
 Antes del código trabajé casi **15 años en salud, muchos en emergencias**. De ahí traigo el pensamiento estructurado y la calma para decidir con información incompleta, justo cuando el costo de equivocarse es alto.
-
-> _(EN)_ Technical director & founder of **PairProgramming**, a B2B software studio serving LATAM & Europe. I build at the intersection of scalable full-stack architecture and applied AI — agentic LLM systems, multi-agent pipelines, MCP servers and programmatic SEO. Former healthcare & emergency professional (~15 yrs) turned self-taught developer.
 
 ---
 
@@ -81,7 +81,7 @@ Lo que más me prende hoy:
 - **Front:** Next.js (App Router), React, Three.js
 - **Back:** Node.js, FastAPI, PostgreSQL / Supabase, colas con pg-boss, geodata con Leaflet / OpenStreetMap
 - **IA:** **agentes propios**, pipelines multiagente y RAG multi-LLM (embeddings y reader con Jina), servidores **MCP**, agent generator, structured outputs y evals
-- **Explorando:** fine-tuning y adaptación de modelos — hacia donde quiero llevar el laburo
+- **Explorando:** fine-tuning y adaptación de modelos — hacia dónde quiero llevar el trabajo
 - **Infra:** Vercel Pro, VPS con workers async + relays, Supabase Realtime, WebRTC / Socket.io
 
 ---
